@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ox67_C.dir/main.cpp.o  -o ox67_C 

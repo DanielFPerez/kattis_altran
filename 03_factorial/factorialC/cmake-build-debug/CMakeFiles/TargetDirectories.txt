@@ -1,0 +1,3 @@
+/home/daniel/Documents/kattis_practice/03_factorial/factorialC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/daniel/Documents/kattis_practice/03_factorial/factorialC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daniel/Documents/kattis_practice/03_factorial/factorialC/cmake-build-debug/CMakeFiles/factorialC.dir

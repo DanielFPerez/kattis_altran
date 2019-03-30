@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/Documents/kattis_practice/01_ox67/ox67_C/main.cpp
+iostream
+-
+vector
+-
+unordered_map
+-
+cmath
+-
+algorithm
+-
+numeric
+-
+time.h
+-
+deque
+-
+

@@ -1,0 +1,3 @@
+/home/daniel/Documents/kattis_practice/01_ox67/ox67_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daniel/Documents/kattis_practice/01_ox67/ox67_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/daniel/Documents/kattis_practice/01_ox67/ox67_C/cmake-build-debug/CMakeFiles/ox67_C.dir
