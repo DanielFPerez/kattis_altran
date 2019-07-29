@@ -1,4 +1,4 @@
-Problem B
+#Problem B
 
 0x67 is a scout ant searching for food and discovers a beehive nearby. As it approaches the honeycomb, 0x67 can sense an area inside packed with dried honey that can be easily carried back to the nest and stored for winter. However, it must burrow through the honeycomb to reach the cell containing the sweet loot. If 0x67 can create a passage to the honey to help the other ants find it, it will do so before returning to the nest.
 
@@ -6,7 +6,7 @@ When 0x67 discovers the opening to the honeycomb, it enters the cell. Some ants 
 
 Scout ants have rudimentary computational skills, and before 0x67 begins to chew, it will work out where it needs to go, and compute K, the least number of cells it needs to chew through to get from A to B, where B is the Kth cell. If K>N, 0x67 will not be strong enough to make the tunnel. When 0x67 returns to the nest, it will communicate to its nestmates how many cells it chewed through to get to B, or will report that it could not get to the honey.
 
-Input
+##Input
 
 The input contains two lines. The first line contains five blank separated integers: R N A B X
 
@@ -24,7 +24,7 @@ The second line contains X integers separated by spaces, where each integer is t
 
 The ID’s, A, B, and all the ID’s on the second line, are distinct positive integers less than or equal to R^3−(R−1)^3.
 
-Ouptut
+## Ouptut
 
 A single integer K if 0x67 reached the honey at cell B, where B is the Kth cell, otherwise the string No if it was impossible to reach the honey by chewing through N cells or less.
 
